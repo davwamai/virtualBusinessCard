@@ -1,6 +1,6 @@
 # Virtual Business Card : for github pages
 
-Welcome to the Simple Portfolio Card repository. This project serves as a teaching tool for beginners looking to venture into the world of web development. It's designed to be minimalistic, straightforward, yet modern enough for anyone wanting to showcase their profile.
+This project serves as a teaching tool for beginners looking to venture into the world of web development. It's designed to be minimalistic, straightforward, yet modern enough for anyone wanting to showcase their profile.
 
 ## Overview
 
