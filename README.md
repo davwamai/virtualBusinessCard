@@ -1,4 +1,4 @@
-# Simple Portfolio Card: A Teaching Tool
+# Virtual Business Card : for github pages
 
 Welcome to the Simple Portfolio Card repository. This project serves as a teaching tool for beginners looking to venture into the world of web development. It's designed to be minimalistic, straightforward, yet modern enough for anyone wanting to showcase their profile.
 
@@ -20,7 +20,7 @@ The design is modular, ensuring that learners can easily add, remove, or modify 
    ```bash
    git clone [URL-of-this-repo]
   
-3. **Modify the HTML**: Open the `portfolio.html` (or the name you've given to the main HTML file) in any text editor.
+3. **Modify the HTML**: Open the `index.html` (or the name you've given to the main HTML file) in any text editor.
 
 - Replace the placeholder text and image with your details.
 - Update the social media links to direct to your profiles.
@@ -37,6 +37,3 @@ The design is modular, ensuring that learners can easily add, remove, or modify 
 
 While this project is mainly a teaching tool, contributions are always welcome! If you have suggestions, improvements, or fixes, please raise an issue or submit a pull request.
 
-## License
-
-This project is open source, under the [MIT License](LICENSE).
